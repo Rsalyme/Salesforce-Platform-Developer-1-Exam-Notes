@@ -2,7 +2,7 @@
 These notes were originally by SANTOSH KUMAR SRIRAM from 
 <https://withsalesforce.wordpress.com>
 
-To make them more easily available to the wider developer community I've migrated the content to markdown so that we it can be shared on git.
+To make them more easily available to the wider developer community I've migrated the content to markdown so that it can be shared on git.
 
  Salesforce AppExchange Overview Demo
  
