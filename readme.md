@@ -6,7 +6,7 @@ This covers the basics
 
 1. [Study Guide](https://github.com/Rsalyme/Salesforce-Platform-Developer-1-Exam-Notes/edit/master/GeneralStudyGuide.md)
 
-This covers the harder to remember topics:
+This covers more advanced subjects:
 
 1. [Exceptions](https://github.com/Rsalyme/Salesforce-Platform-Developer-1-Exam-Notes/blob/master/exceptions.md)
 2. [Triggers](https://github.com/Rsalyme/Salesforce-Platform-Developer-1-Exam-Notes/blob/master/triggers.md)
